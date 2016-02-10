@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    color: #222;
+}
+
+html, body {
+    height: 100%;
+    font-family: Arial,;
+    min-width: 980px;
+}
+
+.content {
+    margin: auto;
+    width: 60%;  
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+.footer, .push {
+    height: 4em;
+}
+
+.googleplus {
+    color: #FFF;
+    background-color: #3f76d3;
+    font-style: bold;
+    padding: 10px 15px;
+    border-radius: 4px;
+    border: 1px solid #4285f4;
+    font-size: 12px;
+}
+
+#searchContainer {
+    width: 480px;
+    height: 38px;
+    padding-left:;
+    padding-top: ;
+}
+
+.buttons {
+/*    padding-top: 40px;*/
+    margin: auto;
+/*    width: 35%;*/
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.searchbtn {
+    background-color: #f2f2f2;
+    color: 757575;
+    padding: 10px 20px;  
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.luckybtn {
+    background-color: #f2f2f2;
+    color: 757575;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+li, a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none; 
+}
+
+.googleplus.signinfont {
+
+    font-weight: bold;
+
+}
+
+.footer{
+    background-color: #f2f2f2
+}
+
+.apps {
+    text-align: right;
+    margin-right: 5px;
+}
+
+.company {
+    float: left;
+    bottom: 0;
+}
+
+.settings {
+ float:right;
+}
